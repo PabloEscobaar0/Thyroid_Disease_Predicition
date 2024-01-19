@@ -54,25 +54,25 @@ Thyroid Illness Informational index from UCI AI Archive For Informational index:
 =================================================
 *High Level Design*
 =================================================
-URL : https://drive.google.com/file/d/1q7JsoRhTO67jSd6bvkqevSm4GJZH8kGp/view?usp=sharing
+URL : https://drive.google.com/file/d/18UACH6_vcps28DgBalhMZ15EMh_WurHV/view?usp=drive_link
 
 
 *Low Level Design*
 =================================================
-URL : https://drive.google.com/file/d/1YVIwyFR1lsGJscCTJ-raHzsQN4hv_Her/view?usp=sharing
+URL : https://drive.google.com/file/d/17dAZ_6o1F1zMRKFd2DahPKUEJ5g-NSb3/view?usp=drive_link
 
 *Architecture*
 =================================================
-URL : https://drive.google.com/file/d/1Tr7ZaUlBlBvUhkToHpWGsg2Yw_p7qmSY/view?usp=sharing
+URL : https://drive.google.com/file/d/1dQtdhlaS44E446nyKLAOFuTxu40iCfog/view?usp=drive_link
 
 
 *Detailed Project Report*
 ==================================================
-URL : https://drive.google.com/file/d/1oi5RInpCXW9WY5lMAwD8GDHD7TUR349m/view?usp=sharing
+URL : https://drive.google.com/file/d/1yHX4nWop67i19t9iHvF_hXnFilfK2ZTk/view?usp=drive_link
 
 *Wireframe*
 ===================================================
-URL : https://drive.google.com/file/d/1iE7tAn0FRSCTMQ625z-mGVV7v6sqP8FX/view?usp=sharing
+URL : https://drive.google.com/file/d/1_KOKB6U7kpCj2BJNyViseeAWgZ4RNnxu/view?usp=drive_link
 
 
 
