@@ -1,7 +1,6 @@
 
 ## 🚀 About Me
-I'm a Data Scientist Intern Did Projects and Internships Seeking for opportunities and good with data visualization Tools and has ability to work on unstructured data from various sources to make 
-decision through technologies such as data science, big data....
+Hello, I'm Prathamesh, a seasoned software engineer navigating the ever-evolving landscape of technology. With a strong foundation in programming languages such as Python, Java, and JavaScript, I specialize in crafting robust and scalable solutions that seamlessly integrate the power of cloud technology and DevOps practices.
 
 
 ## Authors
@@ -76,9 +75,6 @@ URL : https://drive.google.com/file/d/1oi5RInpCXW9WY5lMAwD8GDHD7TUR349m/view?usp
 URL : https://drive.google.com/file/d/1iE7tAn0FRSCTMQ625z-mGVV7v6sqP8FX/view?usp=sharing
 
 
-*demo videp*
-===================================================
-URL :  https://drive.google.com/file/d/1vVKrMU8cFDWOzCXShJVIk2v6ahmJyjFv/view?usp=sharing
 
 ## Deployment
 
